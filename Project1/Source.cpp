@@ -22,7 +22,6 @@ void OnMouseClick(int button, int state, int x, int y)
 		std::cout << "y = " << ypos << "\n";
 
 		
-		//first button
 		if (xpos >= 85 && xpos <= 237 && ypos >= 680 && ypos <= 785)
 		{
 			std::cout << "Mouse left button is clicked ! \n";
@@ -31,15 +30,12 @@ void OnMouseClick(int button, int state, int x, int y)
 
 			drawRainbow();
 		}
-   
 	}
 }
 
 void display() {
 
 	drawButtons();
-	//drawRainbow();
-	
 }
 
 void drawButtons()
@@ -59,6 +55,12 @@ void drawButtons()
 	glVertex2f(0.5f, 0.5f);
 	glVertex2f(-0.5f, 0.5f);
 	glEnd();
+
+	glLoadIdentity();
+	glColor3f(1.0f, 0.0f, 0.0f); // white
+	glRasterPos2f(0.0, 0.0);
+	glutBitmapCharacter(GLUT_BITMAP_HELVETICA_18, 'B');
+	glFlush();
 
 	glLoadIdentity();
 	
@@ -144,7 +146,6 @@ void init()
 {
 	glClearColor(0.0f, 0.0f, 0.0f, 1.0f); // Set background color to black and opaque
 	glClear(GL_COLOR_BUFFER_BIT);         // Clear the color buffer (background)
-
 }
 
 int main(int argc, char **argv)
