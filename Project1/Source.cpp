@@ -21,10 +21,6 @@ void OnMouseClick(int button, int state, int x, int y)
 		std::cout << "x = " << xpos << " ";
 		std::cout << "y = " << ypos << "\n";
 
-		std::cout << "Mouse left button is clicked ! \n";
-		std::cout << "x = " << xpos << " ";
-		std::cout << "y = " << ypos << "\n";
-
 		/*
 		if (xpos >= 125 && xpos <= 375 && ypos >= 125 && ypos <= 375)
 		{
