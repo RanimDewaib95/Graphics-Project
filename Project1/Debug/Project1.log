@@ -1,14 +1,14 @@
 ﻿  Source.cpp
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(90): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(91): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(109): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(117): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(121): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(125): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(131): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(80): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(97): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(106): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(116): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(124): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(128): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(132): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rdewa\onedrive\documents\visual studio 2015\projects\project1\project1\source.cpp(138): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   Project1.vcxproj -> C:\Users\rdewa\OneDrive\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
   Project1.vcxproj -> C:\Users\rdewa\OneDrive\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
